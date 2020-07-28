@@ -2,7 +2,7 @@
 A very simple convenience package to colour exception traces.
 
 
-<img src="example.png" alt="Example" width="500"/>
+<img src="example.png" alt="Example" width="400"/>
 
 ### Usage
 One might find themselves colouring exception traces by setting the ```sys.excepthook```. Rather than have to include this block at the start of code whenever desired, you can:
